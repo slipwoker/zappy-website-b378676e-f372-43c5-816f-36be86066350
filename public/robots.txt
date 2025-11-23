@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://team-dr-joseph-b378676e.zappy5.app/sitemap.xml
