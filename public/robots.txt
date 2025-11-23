@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://team-dr-joseph.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-b378676e-f372-43c5-816f.onrender.com/sitemap.xml
